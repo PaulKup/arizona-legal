@@ -13,10 +13,10 @@ const Header = () => {
         <header>
             <div>
                 <Link to="/">
-                    <h1>Arizona Legal</h1>
+                    <h1 class='navbar-brand'>Arizona Legal</h1>
                 </Link>
 
-                <nav className="text-center">
+                <nav className="text-center navbar navbar-expand{md}">
                     {Auth.loggedIn() ? (
                         <>
                         <Link to="/profile">Me</Link>
@@ -26,8 +26,8 @@ const Header = () => {
                         </>
                     ) : (
                         <>
-                        <Link to="/login">Login</Link>
-                        <Link to="/signup">Signup</Link>
+                        <Link to="/login" class="nav-link">Login</Link>
+                        <Link to="/signup" class="nav-link">Signup</Link>
                         </>
                     )}
                 </nav>
