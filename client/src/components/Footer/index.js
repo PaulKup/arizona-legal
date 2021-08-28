@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer>
             <div>
-                Arizona Legal
+            Bottom footer Legal Disclaimer
             </div>
         </footer>
     );

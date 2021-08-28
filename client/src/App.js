@@ -7,6 +7,9 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 import Home from './pages/Home';
+import WhoAreWe from './pages/WhoAreWe';
+import WhoDoWeServe from './pages/WhoDoWeServe';
+import HowWeCanHelp from './pages/HowWeCanHelp';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import NoMatch from './pages/NoMatch';
@@ -35,6 +38,9 @@ function App() {
           <div className="container">
             <Switch>
               <Route exact path="/" component={Home} />
+              <Route exact path="/WhoAreWe" component={WhoAreWe} />
+              <Route exact path="/WhoDoWeServe" component={WhoDoWeServe} />
+              <Route exact path="/HowWeCanHelp" component={HowWeCanHelp} />
               <Route exact path="/login" component={Login} />
               <Route exact path="/signup" component={Signup} />
 

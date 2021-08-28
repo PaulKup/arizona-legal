@@ -1,11 +1,14 @@
 import React from "react";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import { Widget } from '@typeform/embed-react';
+
 
 const Home = () => {
   return (
     <div className="container">
-      stuff
+      <div>
+        <Widget id="ygKERry3" className="my-form" />
+      </div>
+
     </div>
   );
 };
