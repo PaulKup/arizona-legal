@@ -163,6 +163,152 @@ const Home = () => {
             </ul>
           </div>
         </div>
+        <div>
+          <h2>Deciding where a person under guardianship lives</h2>
+          <div>
+            Arizona law may give the guardian entitlement to custody of the person. If the guardian is 
+            entitled to custody then they have the authority to establish where the incapacitated 
+            person lives. A guardian should only exercise the authority necessitated by the 
+            incapacitated person’s limitations. The guardian should encourage the person under 
+            guardianship to participate in decisions about their life and should consider their wishes. 
+            While a guardian has the authority to decide where a person lives if they object to those 
+            decisions both the Court and others will listen to them. A guardian has an obligation to 
+            find the appropriate and least restrictive setting. A guardian must encourage the 
+            incapacitated person to develop self-reliance and independence and to actively seek to 
+            limit the guardianship. So while the guardian has the authority to determine where the 
+            person lives that authority is limited by their other obligations to the person. 
+          </div>
+        </div>
+        <div>
+          <h2>Healthcare decision making</h2>
+          <div>
+          A guardian may give any consents or approvals that are necessary for the incapacitated 
+          person to receive medical care or other professional care, counseling or treatment. 
+          Note the word may. Medical care is personal and to the extent that the person has the 
+          ability to give informed consent for their medical they should be allowed to do so.
+          </div>
+        </div>
+        <div>
+          <h2>Financial decision making</h2>
+          <div>
+          In Arizona guardianship does not include the person’s estate unless it is less than 
+          $10,000. If there are assets or income to be managed then the incapacitated person will 
+          need a conservator appointed as well. Social Security Supplemental Income or SSI is not 
+          included in that amount and the guardian may manage those funds without a conservatorship. 
+          </div>
+        </div>
+        <div>
+          <h2>Responsibilities of a guardian</h2>
+          <div>
+          A guardian has similar duties and responsibilities as a parent does to a child. However, 
+          the duties are supervised by a Court. A guardian has the reasonability to do all f the 
+          following in a general guardianship:
+          <ul>
+            <li>Determine and monitor residence</li>
+            <li>Consent to and monitor medical treatment</li>
+            <li>Consent and monitor non-medical services such as education and counseling</li>
+            <li>Consent and release of confidential information</li>
+            <li>Make end-of-life decisions</li>
+            <li>Act as representative payee</li>
+            <li>Maximize independence in least restrictive manner</li>
+            <li>Report to the court about the guardianship status at least annually</li>
+          </ul>
+          </div>
+        </div>
+        <div>
+          <h2>Compensation of a Guardian</h2>
+          <div>
+          <h3>Guardian liability</h3>
+            Payment to serve as a guardian 14-5109 and 14-5110
+            Maintaining the protected person’s relationship 14-5316
+            "Significant relationship" means the person either is related to the ward by blood or marriage or is a close friend of the ward as established by a history of pattern and practice.
+            Guardianship and Social Security
+          </div>
+        </div>
+
+      </section>
+      <section>
+        <h1>Limited Guardianship</h1>
+        <div>
+        In any type of guardianship, the court may limit the guardian’s authority. The guiding 
+        principle in all guardianship is that of least intrusive measures to assure as much autonomy 
+        as possible for the person under guardianship. The guardian’s authority is defined by the 
+        court and the guardian may not operate outside that authority.  
+        <div>
+          <h2>Driver’s licenses</h2>
+        </div>
+        <div>
+          <h2>Voting</h2>
+          <div>
+            If the person should has the capacity to vote you must include the for the person to retain 
+            their right to vote in the petition for guardianship. incapacitated person for purposes of 
+            voting if the person files a petition and has a hearing and the judge determines by clear 
+            and convincing evidence that the person retains sufficient understanding to exercise the 
+            right to vote pursuant to section 14-5304.02.
+          </div>
+        </div>
+        <div>
+          <h2>Emergency situations</h2>
+        </div>
+        </div>
+      </section>
+      <section>
+        <h1>Alternatives To Guardianship</h1>
+        <ul>
+          <li>Healthcare power of attorney</li>
+          <li>Financial power of attorney</li>
+          <li>Supported decisions making</li>
+        </ul>
+      </section>
+      <section>
+        <h1>Successor Guardians and Termination of the Guardianship</h1>
+        <div>
+          <ul>
+            <li>Is a permanent guardianship permanent?</li>
+            <li>Termination of a guardian</li>
+          </ul>
+          <p>Successor guardian appointment by will 5301</p>
+          <p>A. A parent, by will or other signed writing, may appoint a guardian for an unmarried 
+            child who the parent believes is an incapacitated person, specify desired limitations 
+            on the powers to be given to the guardian and revoke or amend the appointment before 
+            confirmation by the court. Appointments become effective only as prescribed pursuant 
+            to section 14-5301.01, subsection A.</p>
+            <p>B. An individual, by will or other signed writing, may appoint a guardian for the 
+              individual's spouse who the appointing spouse believes is an incapacitated person, 
+              specify desired limitations on the powers to be given to the guardian and revoke or 
+              amend the appointment before confirmation by the court. An appointment pursuant to 
+              this subsection becomes effective only as prescribed pursuant to section 14-5301.01, 
+              subsection A.</p>
+          <ul>
+            <li>Co-guardians</li>
+            <li>Divorced guardian</li>
+            <li>Out of state guardians</li>
+            <li>What if I can no longer serve as guardian? 5307</li>
+          </ul>
+        </div>
+      </section>
+      <section>
+        <h1>Mental Health</h1>
+        <p>Mental Health</p>
+      </section>
+      <section>
+        <h1>Moving and Traveling</h1>
+        <p>What to do if going out of town POAs 14-5104</p>
+        <p>Moving out of state</p>
+        <p>Ongoing Duties to the Court After Being Appointed as a Guardian</p>
+      </section>
+      <section>
+        <h1>Other Things To Think About When A Child Is Turning 18</h1>
+        <ul>
+          <li>Special Needs Trusts</li>
+          <li>SSI</li>
+          <li>Conservatorship</li>
+          <li>ABLE accounts</li>
+          <li>ALTCS</li>
+          <li>Child support</li>
+          <li>Educational Transition</li>
+          <li>National guardianship standards</li>
+        </ul>
       </section>
 
     </div>
